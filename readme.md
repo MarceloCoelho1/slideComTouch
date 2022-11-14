@@ -22,5 +22,5 @@ slide.init();
 slide.addArrow('.prev', '.next');
 slide.addControl('.custom-controls');
 ```
-preview
+slide preview
 ![slide-preview](img/preview.png)
